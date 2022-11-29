@@ -1,0 +1,67 @@
+.title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(23, 23, 209);
+    /* color:red; */
+    position: relative;
+    top:-35px;
+    
+    
+}
+
+.nav .nav-link:hover{
+    
+    border-radius: 5px;
+    height: 45px;
+    letter-spacing: 2px;
+    background-color:rgb(252, 243, 142);
+
+    
+}
+.nav a{
+    /* color: rgb(23, 23, 209); */
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px 12px;
+    position: relative;
+    top: -22px;
+    border-radius: 4px;
+    font-size: larger;
+    align-items: center;
+    transition: all 0.2s;
+    
+}
+.image{
+    position: relative;
+    top : 10px;
+    
+    
+}
+.translate-middle {
+    transform: translate(-97%,-50%)!important;
+}
+.card{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.39), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  
+}
+.nav .nav-item{
+    padding-top: 30px;
+    
+    
+}
+.nav .image{
+    position: relative;
+    top:15px;
+}
+.div-container{
+    background-color:bisque;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    box-shadow: 12px grey;
+}
+.navbar-toggler{
+    background-color: white;
+}
